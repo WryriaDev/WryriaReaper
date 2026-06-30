@@ -2,7 +2,7 @@
 
 # ⟨ WryriaReaper ⟩
 
-**ʜɪɢʜ-ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ, ᴍɪɴɪᴍᴀʟɪsᴛ ᴇɴᴛɪᴛʏ ᴄʟᴇᴀɴᴇʀ ғᴏʀ ᴘᴀᴘᴇʀ/sᴘɪɢᴏᴛ 1.21.1**
+*ʜɪɢʜ-ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ, ᴍɪɴɪᴍᴀʟɪsᴛ ᴇɴᴛɪᴛʏ ᴄʟᴇᴀɴᴇʀ ғᴏʀ ᴘᴀᴘᴇʀ/sᴘɪɢᴏᴛ 1.21.1*
 
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=flat-square&logo=minecraft&logoColor=white)

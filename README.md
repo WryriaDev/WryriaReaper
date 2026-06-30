@@ -2,7 +2,7 @@
 
 # ⟨ WryriaReaper ⟩
 
-*ʜɪɢʜ-ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ, ᴍɪɴɪᴍᴀʟɪsᴛ ᴇɴᴛɪᴛʏ ᴄʟᴇᴀɴᴇʀ ғᴏʀ ᴘᴀᴘᴇʀ/sᴘɪɢᴏᴛ 1.21.1*
+**ʜɪɢʜ-ᴘᴇʀғᴏʀᴍᴀɴᴄᴇ, ᴍɪɴɪᴍᴀʟɪsᴛ ᴇɴᴛɪᴛʏ ᴄʟᴇᴀɴᴇʀ ғᴏʀ ᴘᴀᴘᴇʀ/sᴘɪɢᴏᴛ 1.21.1**
 
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-62B47A?style=flat-square&logo=minecraft&logoColor=white)
@@ -144,6 +144,14 @@ Async Thread (BukkitRunnable)          Main Server Thread
                                         ├─ remove target entities
                                         └─ broadcast result ({count})
 ```
+
+---
+
+## ✦ Support & Contact
+
+If you have any questions, feature requests, or need help with the configuration, feel free to join our Discord server!
+
+[![Discord](https://img.shields.io/badge/Discord-Join_Support_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/[https://discord.gg/8sXphPdswf])
 
 ---
 

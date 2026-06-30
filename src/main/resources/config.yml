@@ -1,0 +1,26 @@
+# ┌─────────────────────────────────────────────┐
+# │         WryriaReaper — Configuration        │
+# └─────────────────────────────────────────────┘
+
+# Purge interval in seconds (default: 300 = 5 minutes)
+interval: 300
+
+# Entity types to remove during purge
+# See: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+entity-types:
+  - ITEM
+  - PRIMED_TNT
+  - EXPERIENCE_ORB
+
+# Worlds where the cleaner is active
+# Leave empty to enable in all worlds
+worlds:
+  - world
+  - world_nether
+  - world_the_end
+
+# Countdown warning toggles
+warnings:
+  60-seconds: true
+  30-seconds: true
+  10-seconds: true

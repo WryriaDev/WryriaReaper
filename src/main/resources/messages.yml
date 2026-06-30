@@ -1,0 +1,31 @@
+# ┌─────────────────────────────────────────────┐
+# │       WryriaReaper — Messages (MiniMessage) │
+# └─────────────────────────────────────────────┘
+#
+# Supports MiniMessage formatting:
+#   <#FF5555>   — Hex colors
+#   &#FF5555    — Legacy hex colors (auto-converted)
+#   <gradient:#aa:#bb>  — Gradients
+#   <bold>, <italic>    — Styles
+#
+# Placeholders:
+#   {count}   — Number of entities removed
+#   {time}    — Seconds remaining
+#   {minutes} — Time in mm:ss format
+
+prefix: "<dark_gray>⟨<gradient:#b24bff:#8a2be2>ᴡʀʏʀɪᴀʀᴇᴀᴘᴇʀ</gradient><dark_gray>⟩"
+
+warning-60: "<#8a8a8a>ɢʀᴏᴜɴᴅ ɪᴛᴇᴍs ᴡɪʟʟ ʙᴇ ᴘᴜʀɢᴇᴅ ɪɴ <yellow>{time}</yellow> <#8a8a8a>sᴇᴄᴏɴᴅs."
+warning-30: "<#8a8a8a>ɢʀᴏᴜɴᴅ ɪᴛᴇᴍs ᴡɪʟʟ ʙᴇ ᴘᴜʀɢᴇᴅ ɪɴ <yellow>{time}</yellow> <#8a8a8a>sᴇᴄᴏɴᴅs!"
+warning-10: "<#ff4444>⚠ <#8a8a8a>ᴘᴜʀɢɪɴɢ ɪɴ <yellow>{time}</yellow> <#8a8a8a>sᴇᴄᴏɴᴅs!"
+
+clear-complete: "<gradient:#b24bff:#d896ff>✦</gradient> <#8a8a8a>ᴘᴜʀɢᴇ ᴄᴏᴍᴘʟᴇᴛᴇ! <yellow>{count}</yellow> <#8a8a8a>ᴇɴᴛɪᴛɪᴇs ʀᴇᴍᴏᴠᴇᴅ."
+force-clear: "<gradient:#b24bff:#d896ff>✦</gradient> <#8a8a8a>ᴍᴀɴᴜᴀʟ ᴘᴜʀɢᴇ! <yellow>{count}</yellow> <#8a8a8a>ᴇɴᴛɪᴛɪᴇs ʀᴇᴍᴏᴠᴇᴅ."
+
+time-remaining: "<#8a8a8a>ɴᴇxᴛ ᴘᴜʀɢᴇ ɪɴ: <yellow>{minutes}</yellow>"
+
+reload-success: "<gradient:#2ecc71:#27ae60>✔</gradient> <#8a8a8a>ᴄᴏɴғɪɢᴜʀᴀᴛɪᴏɴ ʀᴇʟᴏᴀᴅᴇᴅ."
+
+no-permission: "<#ff4444>✘ <#8a8a8a>ɪɴsᴜғғɪᴄɪᴇɴᴛ ᴘᴇʀᴍɪssɪᴏɴs."
+
+usage: "<#8a8a8a>ᴜsᴀɢᴇ: <white>/reaper <clear|reload|time>"

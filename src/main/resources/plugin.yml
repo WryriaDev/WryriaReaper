@@ -1,0 +1,20 @@
+name: WryriaReaper
+version: ${project.version}
+main: dev.wyrria.reaper.WryriaReaper
+api-version: '1.21'
+description: High-performance, minimalist entity cleaner
+author: Wyrria
+
+commands:
+  reaper:
+    description: WryriaReaper entity cleaner command
+    usage: /reaper <clear|reload|time>
+    aliases: [wr, wyrriareaper]
+
+permissions:
+  reaper.admin:
+    description: Allows clearing entities and reloading config
+    default: op
+  reaper.use:
+    description: Allows checking remaining time until next purge
+    default: true
